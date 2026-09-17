@@ -75,6 +75,6 @@ https://github.com/AzaliaFlores19/Koara_backend
 
 Email: wilsonguerrac68@gmail.com
 
-LinkedIn: linkedin.com/in/wilsonoguerra
+LinkedIn: [linkedin.com/in/wilsonoguerra](https://www.linkedin.com/in/wilsonoguerra/)
 
 GitHub: https://github.com/ExCalibur6897
